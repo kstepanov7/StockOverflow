@@ -11,3 +11,8 @@ Dowload dataset and weights from [https://drive.google.com/drive/folders/12bEDGz
 3. 'MaterialLoyalty.ipynb' - notebook with calculation of material loyalty
 
 
+# Description
+
+![alt text](https://github.com/kstepanov7/StockOverflow/blob/master/images/loyalty.jpg?raw=false)
+![alt text](https://github.com/kstepanov7/StockOverflow/blob/master/images/rep.jpg?raw=false)
+
